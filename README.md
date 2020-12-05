@@ -1,7 +1,7 @@
-# ¡Hola I am Bhavik Parmar!
+# ¡Hola, I am Bhavik Parmar!
+---
 
 ### A little more about me...
-
 ```ruby
 bhavik = {
     :code => ["JavaScript", "Java", "PHP", "Node.js"],
@@ -9,6 +9,7 @@ bhavik = {
     :technologies => {
         :back_end => {
             :language => ["Java", "PHP", "Node.js"],
+            :apis => ["JWT", "Swagger"],
             :framework => ["Spring Boot"]
         },
         :front_end => {
@@ -16,7 +17,8 @@ bhavik = {
             :framework => ["Bootstrap", "jQuery", "Ajax"]
         },
         :database => ["MySQL", "PostgreSQL", "MongoDB"],
-        :misc => ["Firebase", "Docker"]
+        :web_host => ["000webhost", "Heroku"],
+        :misc => ["Postman", "Firebase (FCM)", "Docker"]
     }
 }
 ```
