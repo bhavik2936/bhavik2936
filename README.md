@@ -18,7 +18,7 @@ bhavik = {
         },
         :database => ["MySQL", "PostgreSQL", "MongoDB"],
         :web_host => ["000webhost", "Heroku"],
-        :misc => ["Postman", "Firebase (FCM)", "Docker"]
+        :misc => ["Postman", "Firebase (FCM)", "Docker", "Touch Typist"]
     }
 }
 ```
