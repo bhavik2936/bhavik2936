@@ -1,4 +1,4 @@
-# ¡Hola, I am Bhavik Parmar!
+# ¡Hola, soy Bhavik Parmar!
 
 ### A little more about me...
 
@@ -27,7 +27,7 @@ bhavik = {
 [comment]: <Social Connections>
 [![https://github.com/bhavik2936][github-logo]](https://github.com/bhavik2936) [![https://in.linkedin.com/in/bhavikpparmar][linkedin-logo]](https://in.linkedin.com/in/bhavikpparmar) [![https://www.hackerrank.com/bhavikparmar][hackerrank-logo]](https://www.hackerrank.com/bhavikparmar) [![https://www.hackerearth.com/@bhavik2936][hackerearth-logo]](https://www.hackerearth.com/@bhavik2936)
 
-
+[comment]: <List of References>
 [github-logo]: https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 [linkedin-logo]: https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [hackerrank-logo]: https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white
